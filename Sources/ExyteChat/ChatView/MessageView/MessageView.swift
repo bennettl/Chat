@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct MessageView: View {
+public struct MessageView: View {
 
     @Environment(\.chatTheme) private var theme
 
